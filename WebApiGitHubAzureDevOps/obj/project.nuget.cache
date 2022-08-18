@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "DH4qVDJkxJSvvSrDupQk+Abt9bouTY2go4kxt0vFiu3lwEPLfldY0lwyYYlvqEOjr24A9/p7ZFsMMxBC768uBw==",
+  "success": true,
+  "projectFilePath": "C:\\Programming\\C#\\WebApiGitHubAzureDevOps\\WebApiGitHubAzureDevOps\\WebApiGitHubAzureDevOps.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\raul.reyes\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\raul.reyes\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\raul.reyes\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\raul.reyes\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\raul.reyes\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\raul.reyes\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
